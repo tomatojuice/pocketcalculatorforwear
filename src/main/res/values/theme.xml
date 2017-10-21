@@ -1,0 +1,73 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Theme of Indigo -->
+	<style name="IndigoTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/indigo_900</item>
+		<item name="android:windowBackground">@color/indigo_50</item>
+<!-- 	<item name="colorAccent">@color/indigo_100</item>
+		<item name="colorControlNormal">@color/indigo_100</item>
+		<item name="colorSwitchThumbNormal">@color/indigo_100</item>
+		<item name="colorControlActivated">@color/indigo_100</item>	-->
+		
+		<!-- ボタンの配色 -->
+		<item name="colorButtonNormal">@color/indigo_500</item>
+		<item name="colorControlHighlight">@color/indigo_100</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+
+    <!-- Theme of Pink -->
+	<style name="PinkTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/pink_900</item>
+		<item name="android:windowBackground">@color/pink_50</item>
+		<item name="colorButtonNormal">@color/pink_500</item>
+		<item name="colorControlHighlight">@color/pink_100</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+    <!-- Theme of Teal -->
+	<style name="TealTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/teal_900</item>
+		<item name="android:windowBackground">@color/teal_50</item>
+		<item name="colorButtonNormal">@color/teal_500</item>
+		<item name="colorControlHighlight">@color/teal_100</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+	<!-- Theme of Orange -->
+	<style name="OrangeTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/orange_900</item>
+		<item name="android:windowBackground">@color/orange_50</item>
+		<item name="colorButtonNormal">@color/orange_500</item>
+		<item name="colorControlHighlight">@color/orange_100</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+	<!-- Theme of Brown -->
+	<style name="BrownTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/brown_900</item>
+		<item name="android:windowBackground">@color/brown_50</item>
+		<item name="colorButtonNormal">@color/brown_500</item>
+		<item name="colorControlHighlight">@color/brown_100</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+	<!-- Theme of Green -->
+	<style name="GreenTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/green_900</item>
+		<item name="android:windowBackground">@color/green_50</item>
+		<item name="colorButtonNormal">@color/green_500</item>
+		<item name="colorControlHighlight">@color/green_100</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+	<!-- Theme of Miku -->
+	<style name="MikuTheme" parent="Theme.Wearable">
+		<item name="android:textColorPrimary">@color/miku_3</item>
+		<item name="android:windowBackground">@color/miku_1</item>
+		<item name="colorButtonNormal">@color/miku_6</item>
+		<item name="colorControlHighlight">@color/miku_1</item>
+		<item name="windowActionModeOverlay">true</item>
+	</style>
+
+</resources>

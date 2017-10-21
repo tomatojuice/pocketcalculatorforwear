@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <PreferenceCategory android:title="@string/preftitle">
+
+        <EditTextPreference
+			android:title="@string/taxs"
+            android:summary="@string/presummary"
+            android:defaultValue="8"
+			android:key="taxkey"
+			android:selectable="true"
+			android:inputType="number"/>
+
+		<ListPreference
+			android:title="@string/theme_title"
+			android:summary="@string/theme_summary"
+			android:key="theme"
+			android:defaultValue="0"
+			android:entries="@array/theme_array"
+			android:entryValues="@array/theme_pref"
+			android:dialogTitle="@string/theme_title" />
+
+	</PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="display1">　</string>
+	<string name="display2">0</string>
+	<string name="display3">""</string>
+	<string name="app_name">ポケット電卓・計算機</string>
+	<string name="about_title">ポケット電卓・計算機 (Ver2.1)</string>
+
+	<string name="includtaxes">税込</string>
+	<string name="withouttaxes">税抜</string>
+	<string name="c">C</string>
+	<string name="ce">CE</string>
+	<string name="ca">CA</string>
+	<string name="mplus">M+</string>
+	<string name="mminus">M-</string>
+	<string name="cm">CM</string>
+	<string name="rm">RM</string>
+	<string name="seven">7</string>
+	<string name="eight">8</string>
+	<string name="nine">9</string>
+	<string name="percent">%</string>
+	<string name="root">√</string>
+	<string name="four">4</string>
+	<string name="five">5</string>
+	<string name="six">6</string>
+	<string name="kakeru">X</string>
+	<string name="waru">÷</string>
+	<string name="one">1</string>
+	<string name="two">2</string>
+	<string name="three">3</string>
+	<string name="plus">+</string>
+	<string name="minus">-</string>
+	<string name="plusminus">+/-</string>
+	<string name="zero">0</string>
+	<string name="zerozero">00</string>
+	<string name="dot">.</string>
+	<string name="equal">=</string>
+	<string name="setting">★</string>
+
+	<string name="preftitle">各種設定</string>
+	<string name="presummary">税率を1～100%の間で設定できます</string>
+	<string name="about">About</string>
+	<string name="taxs">税率設定</string>
+	<string name="toastmessege">100以下で入力してください</string>
+	<string name="theme_title">テーマ選択</string>
+	<string name="theme_summary">テーマ色を選択できます</string>
+	<string name="errormessege">Error:Overflow</string>
+
+	<string-array name="theme_array">
+	    <item name="theme_indigo">インディゴ</item>
+	    <item name="theme_pink">ピンク</item>
+	    <item name="theme_teal">ティール</item>
+	    <item name="theme_orange">オレンジ</item>
+		<item name="theme_brown">ブラウン</item>
+		<item name="theme_green">グリーン</item>
+		<item name="theme_miku">初音ミク</item>
+	</string-array>
+
+	<string-array name="theme_pref">
+		<item name="indigo">0</item>
+		<item name="pink">1</item>
+		<item name="teal">2</item>
+		<item name="orange">3</item>
+		<item name="brown">4</item>
+		<item name="green">5</item>
+		<item name="miku">6</item>
+	</string-array>
+	
+</resources>

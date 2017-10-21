@@ -1,0 +1,195 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Button of Indigo -->
+    <!-- Basic ボタン -->
+    <style name="button_indigo" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_indigo_basic</item>
+        <item name="android:textColor">@color/indigo_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_indigo_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_indigo_memory</item>
+        <item name="android:textColor">@color/indigo_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_indigo_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_indigo_clear</item>
+        <item name="android:textColor">@color/indigo_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+
+
+    <!-- Button of Pink -->
+    <style name="button_pink" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_pink_basic</item>
+        <item name="android:textColor">@color/pink_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_pink_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_pink_memory</item>
+        <item name="android:textColor">@color/pink_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_pink_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_pink_clear</item>
+        <item name="android:textColor">@color/pink_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- Button of Teal -->
+    <style name="button_teal" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_teal_basic</item>
+        <item name="android:textColor">@color/teal_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_teal_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_teal_memory</item>
+        <item name="android:textColor">@color/teal_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_teal_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_teal_clear</item>
+        <item name="android:textColor">@color/teal_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- Button of Orange -->
+    <style name="button_orange" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_orange_basic</item>
+        <item name="android:textColor">@color/orange_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_orange_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_orange_memory</item>
+        <item name="android:textColor">@color/orange_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_orange_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_orange_clear</item>
+        <item name="android:textColor">@color/orange_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- Button of Brown -->
+    <style name="button_brown" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_brown_basic</item>
+        <item name="android:textColor">@color/brown_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_brown_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_brown_memory</item>
+        <item name="android:textColor">@color/brown_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_brown_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_brown_clear</item>
+        <item name="android:textColor">@color/brown_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- Button of Green -->
+    <style name="button_green" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_green_basic</item>
+        <item name="android:textColor">@color/green_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_green_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_green_memory</item>
+        <item name="android:textColor">@color/green_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_green_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_green_clear</item>
+        <item name="android:textColor">@color/green_50</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- Button of Miku -->
+    <style name="button_miku" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_miku_basic</item>
+        <item name="android:textColor">@color/miku_3</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- M+ M- CM RM ボタン -->
+    <style name="button_miku_memory" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_miku_memory</item>
+        <item name="android:textColor">@color/miku_3</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <!-- C CE CA の配色 -->
+    <style name="button_miku_clear" parent="@android:style/Widget.Button.Small">
+        <item name="android:background">@drawable/button_miku_clear</item>
+        <item name="android:textColor">@color/miku_3</item>
+        <item name="android:layout_margin">1dp</item>
+        <item name="android:padding">1dp</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
